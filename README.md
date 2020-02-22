@@ -2,11 +2,10 @@
 
 
 ## 参加者の皆様
-
+* [DEIM2020オンライン会議の楽しみ方](participants.md)
 
 ## 座長の皆様
 
 
 ## 発表者の皆様
 
-[test.md](test.md)
