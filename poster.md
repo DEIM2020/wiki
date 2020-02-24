@@ -3,7 +3,6 @@
 [<<Home](README.md)
 
 ## オンライン会議システムの準備
-### Wherebyの場合
 
 * [ステップ1] ***Whereby***へ行き***Sign upをクリック***
     * https://whereby.com/
