@@ -15,6 +15,13 @@
 5. 質疑応答が終わったら，画面上部のメニューのコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)
 6. 終わったら，通常の参加者としてセッションに参加する
 
+（名前の変更の例）
+
+![名前の変更](img/rename1.png)
+
+![名前の変更](img/rename4.png)
+![名前の変更](img/rename5.png)
+
 ## English
 
 1. 10 min. before the starting time of the session, from DEIM2020 program, you need to enter the conference room. When you enter it, you must name yourself as "A1-1: Firstname Familyname" to identify for participants.
@@ -25,4 +32,5 @@
     * turn on your in-camera
     * select your presentation or whole screen from "share the contents"
 1. After finishing your presentation, you need to answer questions from the session chair or participants.
-1. After finishing Q&A, you will stop your presentation from the menu, above the screen, stop sharing the contents 6. You can join the session as a participant.
+1. After finishing Q&A, you will stop your presentation from the menu, above the screen, stop sharing the contents 
+6. You can join the session as a participant.
