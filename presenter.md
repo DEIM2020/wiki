@@ -15,17 +15,17 @@
 5. 質疑応答が終わったら，画面上部のメニューのコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)
 6. 終わったら，通常の参加者としてセッションに参加する
 
-（名前の変更の例）
+（名前の変更の例 / Example of Changing Screen Name）
 
 ![名前の変更](img/rename1.png)
 
 ![名前の変更](img/rename4.png)
 ![名前の変更](img/rename5.png)
 
-（プレゼンテーション開始の例）
+（プレゼンテーション開始の例 / Example of Starting Presentation）
 ![名前の変更](img/share1.png)
 
-（プレゼンテーション終了の例）
+（プレゼンテーション終了の例 / Example of Ending Presentation）
 ![名前の変更](img/share2.png)
 
 
