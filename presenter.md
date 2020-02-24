@@ -22,6 +22,13 @@
 ![名前の変更](img/rename4.png)
 ![名前の変更](img/rename5.png)
 
+（プレゼンテーション開始の例）
+![名前の変更](img/share1.png)
+
+（プレゼンテーション終了の例）
+![名前の変更](img/share2.png)
+
+
 ## English
 
 1. 10 min. before the starting time of the session, from DEIM2020 program, you need to enter the conference room. When you enter it, you must name yourself as "A1-1: Firstname Familyname" to identify for participants.
