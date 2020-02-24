@@ -4,11 +4,9 @@
 
 ## 事前準備
 
-口頭発表セッションはCisco Webex会議システムで行う予定です。参加者・座長・発表者の皆様は無料のクライアントソフトウェアをインストールしてください。アカウント等を作らずに、利用できます。
+口頭発表セッションはCisco Webex会議システムで行う予定です。iPhone,iPad,Androidから参加する場合、参加者・座長・発表者の皆様は無料のクライアントソフトウェアをインストールしてください。アカウント等を作らずに、利用できます。Windows, Macから参加する場合は、初回に自動的にインストールされます．
 
 * Cisco Webexをインストール
-   * PC (Webex Meeting)
-      * https://www.webex.com/ja/downloads.html
    * Android
       * https://play.google.com/store/apps/details?id=com.cisco.webex.meetings&hl=ja
    * iPhone,iPad
