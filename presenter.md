@@ -15,6 +15,8 @@
 5. 質疑応答が終わったら，画面上部のメニューのコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)
 6. 終わったら，通常の参加者としてセッションに参加する
 
+（注意点：音を参加者に聞かせる必要がある場合，このWebExシステムでは，PCから出力される音が共有されないので，例えばスマートフォンに音を録音しておいて，プレゼンテーションの途中でそれを流すなど，工夫の余地があります．）
+
 （名前の変更の例 / Example of Changing Screen Name）
 
 ![名前の変更](img/rename1.png)
@@ -40,4 +42,6 @@
     * select your presentation or whole screen from "share the contents"
 1. After finishing your presentation, you need to answer questions from the session chair or participants.
 1. After finishing Q&A, you will stop your presentation from the menu, above the screen, stop sharing the contents 
-6. You can join the session as a participant.
+1. You can join the session as a participant.
+
+(note: If you need to present your point by some sound, please record the sound in your smartphone for example, and play it during your presentation. Because the WebEx system is not able to share the sound by the presentor.)
