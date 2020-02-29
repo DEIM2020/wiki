@@ -40,7 +40,7 @@
 
 ## English
 
-1. 10 min. before the starting time of the session, from DEIM2020 program, you need to enter the conference room. When you enter it, you must name yourself as "A1-1: Firstname Familyname" to identify for participants.
+1. 10 min. before the starting time of the session, from DEIM2020 program, you need to enter the conference room. When you enter it, you must name yourself as "A1-1: Firstname Familyname (Univ. Name)" or "A1-1: Firstname Familyname (Lab. Name)" to identify for participants.
 (To change your name, after leaving the conference, you can change your name from Webex Meeting App. Your name will be changed next time)
 1. Launch your presentation materials such as PowerPoint.
 1. When you start the presentation:
