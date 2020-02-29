@@ -50,7 +50,5 @@
 
 （名前の変更の例）
 
-![名前の変更](img/rename1.png)
-
-![名前の変更](img/rename4.png)
-![名前の変更](img/rename5.png)
+![名前の変更](img/rename6.png)
+![名前の変更](img/rename8.png)
