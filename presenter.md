@@ -40,10 +40,10 @@
 ![プレゼン](img/share3.png)
 
 
-## Englishou
+## English
 
 1. 10 min. before the starting time of the session, from DEIM2020 program, you need to enter the conference room. When you enter it, you must name yourself as "A1-1: Firstname Familyname" to identify for participants.
-(To change your name, after leaving the confernece, you can change your name from Webex Meeting App. Your name will be changed next time)
+(To change your name, after leaving the conference, you can change your name from Webex Meeting App. Your name will be changed next time)
 1. Launch your presentation materials such as PowerPoint.
 1. When you start the presentation:
     * unmute your microphone
@@ -53,9 +53,9 @@
 1. After finishing your presentation, you need to answer questions from the session chair or participants.
 1. After finishing Q&A, you will stop your presentation from the menu, above the screen, stop sharing the contents 
 1. You can join the session as a participant.
-1. Before leaving the session, it is good for your to save chat by File->Save->Chat.
+1. Before leaving the session, it is good for you to save chat by File->Save->Chat.
 
 Note
-- You have 20 minutes including Q&A. But please parepare for 18 minutes (presentation: 12 -15 min., Q&A: 3 - 5 min.) because switiching presentaors takes time for a while.
+- You have 20 minutes including Q&A. But please prepare for 18 minutes (presentation: 12 -15 min., Q&A: 3 - 5 min.) because switching presentations takes time for a while.
 - If you need to present your point by some sounds, please do not connect a earphone for your PC. If you connect your earphone for your PC, sounds do not share for participants through your microphone.
 - If you start your presentation during other presentations (sharing the contents), others will stop. Please start your presentation after the chair's permission. 
