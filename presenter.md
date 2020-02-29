@@ -17,7 +17,7 @@
 1. 終わったら，通常の参加者としてセッションに参加する
 1. ミーティングから退席する前に，チャットを保存しておくと良い（ファイル→保存→チャット）．
 
-（注意点：音を参加者に聞かせる必要がある場合，このWebExシステムでは，PCから出力される音が共有されないので，例えばスマートフォンに音を録音しておいて，プレゼンテーションの途中でそれを流すなど，工夫の余地があります．）
+（注意点：音を参加者に聞かせる必要がある場合，イヤホン等を接続しないで音を再生してください．イヤホン等をつないでしまうと，その音がマイクを通じて流れないので，他の参加者に音が聞こえなくなります．）
 
 （名前の変更の例 / Example of Changing Screen Name）
 
@@ -37,7 +37,7 @@
 ![プレゼン](img/share3.png)
 
 
-## English
+## Englishou
 
 1. 10 min. before the starting time of the session, from DEIM2020 program, you need to enter the conference room. When you enter it, you must name yourself as "A1-1: Firstname Familyname" to identify for participants.
 (To change your name, after leaving the confernece, you can change your name from Webex Meeting App. Your name will be changed next time)
@@ -52,4 +52,4 @@
 1. You can join the session as a participant.
 1. Before leaving the session, it is good for your to save chat by File->Save->Chat.
 
-(note: If you need to present your point by some sound, please record the sound in your smartphone for example, and play it during your presentation. Because the WebEx system is not able to share the sound by the presentor.)
+(note: If you need to present your point by some sounds, please do not connect a earphone for your PC. If you connect your earphone for your PC, sounds do not share for participants through your microphone.)
