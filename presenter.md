@@ -18,6 +18,7 @@
 1. ミーティングから退席する前に，チャットを保存しておくと良い（ファイル→保存→チャット）．
 
 注意点
+- 持ち時間：20分（交代に時間がかかる事が予想されるため、全体で18分，発表時間12分～15分、質疑応答3分～5分）
 - 音を参加者に聞かせる必要がある場合，イヤホン等を接続しないで音を再生してください．イヤホン等をつないでしまうと，その音がマイクを通じて流れないので，他の参加者に音が聞こえなくなります．
 - 発表者がプレゼン中（コンテンツを共有中）に，他の人がコンテンツを共有してしまうと，発表者の共有が停止されてしまうので，座長に指名されてから，コンテンツの共有を開始してください．
 
@@ -55,5 +56,6 @@
 1. Before leaving the session, it is good for your to save chat by File->Save->Chat.
 
 Note
+- You have 20 minutes including Q&A. Please parepare 18 minutes (presentation: 12 -15 min., Q&A: 3 - 5 min.) because switiching presentaors takes time for a while.
 - If you need to present your point by some sounds, please do not connect a earphone for your PC. If you connect your earphone for your PC, sounds do not share for participants through your microphone.
 - If you start your presentation during other presentations (sharing the contents), others will stop. Please start your presentation after the chair's permission. 
