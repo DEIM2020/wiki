@@ -11,10 +11,11 @@
     * マイクのミュートを解除
     * インカメラをオン
     * 「コンテンツの共有」ボタンから，プレゼンテーション資料，あるいは，画面全体を選ぶ
+    * もし，プレゼンに動画が含まれている場合は，コンテンツの共有のオプション「モーションおよびビデオで最適化」を選んだ方がよい（下記）．
 1. 発表が終了したら，そのまま，音声で座長と質疑応答を行う．
 1. 質疑応答が終わったら，画面上部のメニューのコンテンツの共有の停止，を選びプレゼンテーション資料の配信を停止する(スクリーンショット)
 1. 終わったら，通常の参加者としてセッションに参加する
-1. パワーポイントのスライドショーを使って発表するときは，Ctrlキーを押しながら左クリックを押すとレーザーポインタのようになるので便利です(WINdowsの場合)．
+1. ミーティングから退席する前に，チャットを保存しておくと良い（ファイル→保存→チャット）．
 
 （注意点：音を参加者に聞かせる必要がある場合，このWebExシステムでは，PCから出力される音が共有されないので，例えばスマートフォンに音を録音しておいて，プレゼンテーションの途中でそれを流すなど，工夫の余地があります．）
 
@@ -26,10 +27,14 @@
 ![名前の変更](img/rename5.png)
 
 （プレゼンテーション開始の例 / Example of Starting Presentation）
-![名前の変更](img/share1.png)
+![プレゼン](img/share1.png)
 
 （プレゼンテーション終了の例 / Example of Ending Presentation）
-![名前の変更](img/share2.png)
+![プレゼン](img/share2.png)
+
+（モーションおよびビデオで最適化 / Optimization for Motion and Video）
+（プレゼンテーションに動画がある場合）
+![プレゼン](img/share3.png)
 
 
 ## English
@@ -41,8 +46,10 @@
     * unmute your microphone
     * turn on your in-camera
     * select your presentation or whole screen from "share the contents"
+    * If you have some videos in your slides, you may select "Optimization for Motion and Video" in sharing option
 1. After finishing your presentation, you need to answer questions from the session chair or participants.
 1. After finishing Q&A, you will stop your presentation from the menu, above the screen, stop sharing the contents 
 1. You can join the session as a participant.
+1. Before leaving the session, it is good for your to save chat by File->Save->Chat.
 
 (note: If you need to present your point by some sound, please record the sound in your smartphone for example, and play it during your presentation. Because the WebEx system is not able to share the sound by the presentor.)
