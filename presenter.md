@@ -56,6 +56,6 @@
 1. Before leaving the session, it is good for your to save chat by File->Save->Chat.
 
 Note
-- You have 20 minutes including Q&A. Please parepare 18 minutes (presentation: 12 -15 min., Q&A: 3 - 5 min.) because switiching presentaors takes time for a while.
+- You have 20 minutes including Q&A. But please parepare for 18 minutes (presentation: 12 -15 min., Q&A: 3 - 5 min.) because switiching presentaors takes time for a while.
 - If you need to present your point by some sounds, please do not connect a earphone for your PC. If you connect your earphone for your PC, sounds do not share for participants through your microphone.
 - If you start your presentation during other presentations (sharing the contents), others will stop. Please start your presentation after the chair's permission. 
