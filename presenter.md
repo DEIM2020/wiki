@@ -24,10 +24,8 @@
 
 （名前の変更の例 / Example of Changing Screen Name）
 
-![名前の変更](img/rename1.png)
-
-![名前の変更](img/rename4.png)
-![名前の変更](img/rename5.png)
+![名前の変更](img/rename6.png)
+![名前の変更](img/rename7.png)
 
 （プレゼンテーション開始の例 / Example of Starting Presentation）
 ![プレゼン](img/share1.png)
