@@ -17,7 +17,9 @@
 1. 終わったら，通常の参加者としてセッションに参加する
 1. ミーティングから退席する前に，チャットを保存しておくと良い（ファイル→保存→チャット）．
 
-（注意点：音を参加者に聞かせる必要がある場合，イヤホン等を接続しないで音を再生してください．イヤホン等をつないでしまうと，その音がマイクを通じて流れないので，他の参加者に音が聞こえなくなります．）
+注意点
+- 音を参加者に聞かせる必要がある場合，イヤホン等を接続しないで音を再生してください．イヤホン等をつないでしまうと，その音がマイクを通じて流れないので，他の参加者に音が聞こえなくなります．
+- 発表者がプレゼン中（コンテンツを共有中）に，他の人がコンテンツを共有してしまうと，発表者の共有が停止されてしまうので，座長に指名されてから，コンテンツの共有を開始してください．
 
 （名前の変更の例 / Example of Changing Screen Name）
 
@@ -52,4 +54,6 @@
 1. You can join the session as a participant.
 1. Before leaving the session, it is good for your to save chat by File->Save->Chat.
 
-(note: If you need to present your point by some sounds, please do not connect a earphone for your PC. If you connect your earphone for your PC, sounds do not share for participants through your microphone.)
+Note
+- If you need to present your point by some sounds, please do not connect a earphone for your PC. If you connect your earphone for your PC, sounds do not share for participants through your microphone.
+- If you start your presentation during other presentations (sharing the contents), others will stop. Please start your presentation after the chair's permission. 
