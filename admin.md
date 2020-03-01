@@ -41,6 +41,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfoI6H8U5KFpBydVeZZLodoyaaWq053fja2eMir
 
 山下記念研究賞 選考アンケート用紙（2020年3月4日発表分）
 https://docs.google.com/forms/d/e/1FAIpQLSdxjnjhIUZHC_PfsvH61Cwkacpav9RV9lR_0O8TrmX6xj-SAA/viewform?usp=sf_link
+
 ===ココマデ===
 
 
@@ -55,3 +56,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSdxjnjhIUZHC_PfsvH61Cwkacpav9RV9lR_0O8T
 1. URLの作成とアナウンス
 1. トラブル対応
 1. 主催者が参加していないと他の参加者が議論を開始できないので注意する
+
+
+## 備考
+
+- チャットができない場合：表示→パネル→パネルの管理→チャットを追加
