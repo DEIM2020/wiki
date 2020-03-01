@@ -50,13 +50,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdxjnjhIUZHC_PfsvH61Cwkacpav9RV9lR_0O8T
 
 ===ココマデ===
 
-
-## セッション終了時
-- 主催者・オペレータの「録画」ページから該当セッションの映像を「共有」
-- 「公開リンク」を一覧にコピペ
-- ローカルにURLからダウンロード
-
-
 ## 運営委員
 
 1. URLの作成とアナウンス
