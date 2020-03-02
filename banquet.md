@@ -2,7 +2,7 @@
 
 [<<Home](README.md)
 
-## Online Banquet
+## Banquet Online
 
 1. 各自飲み物，食べ物を準備する．
 1. セッションに接続する．
