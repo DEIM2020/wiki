@@ -25,3 +25,6 @@
 
 ## セッション管理者(学生アルバイト)の皆様
 * [DEIM2020オンライン会議(口頭発表)の進め方](admin.md)
+
+## 付記：Banquet Onlineの楽しみ方
+* [DEIM2020オンライン会議(Banquet Online)の楽しみ方](banquet.md)
