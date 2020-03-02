@@ -48,6 +48,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSfoI6H8U5KFpBydVeZZLodoyaaWq053fja2eMir
 山下記念研究賞 選考アンケート用紙（2020年3月4日発表分）
 https://docs.google.com/forms/d/e/1FAIpQLSdxjnjhIUZHC_PfsvH61Cwkacpav9RV9lR_0O8TrmX6xj-SAA/viewform?usp=sf_link
 
+===ココマデ===
+
+
 ## セッション交代の手順
 
 1. セッション（A1など）を，オペレーターのPCで閉じる（終了する）
@@ -58,7 +61,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSdxjnjhIUZHC_PfsvH61Cwkacpav9RV9lR_0O8T
 1. 次の人は，次のセッションで，チャットができることを確認する．
 
 
-===ココマデ===
 
 ## 運営委員
 
