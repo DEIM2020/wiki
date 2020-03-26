@@ -72,3 +72,71 @@ https://docs.google.com/forms/d/e/1FAIpQLSdxjnjhIUZHC_PfsvH61Cwkacpav9RV9lR_0O8T
 ## 備考
 
 - チャットができない場合：表示→パネル→パネルの管理→チャットを追加
+
+
+# DEIM2020 Online Conference Explanation for Session Administrators
+
+## Student administrators
+
+1.	Ten minutes before the session start time, identify the session chair and presenter from their login names.
+1.	If anything is not proceeding properly, ensure your microphone is not muted and speak directly with the session chair.
+1.	If the microphones of any participants are not muted, except the session chair’s, the presenter’s and your own, mute each of them.
+1.	If the session chair is not present, contact the executive committee.
+1.	If a presenter is not present, ask the session chair to carry on, by changing the order or other means.
+1.	After the session has begun, send the text, “Yamashita SIG Research Award Announcement,” given below, through the chat function to all participants.
+1.	For any questions received through chat or other means, regarding difficulties with audio, the presenter’s screen or other issues, reply through chat, or by voice if it is regarding the session overall.
+1.	Periodically save the chat content to prevent losing it. Specifically, from the WebEx file menu, save the chat content at least once every 30 minutes. If requested by the chairperson or other participants, it can be shared by pasting into the chat function. 
+1.	Use the viewer-numbers reporting page (bookmarked on the desktop) to check by presentation number (e.g. A1-1, etc.) and periodically record the number of viewers (at the beginning and end).
+1.	After the last session of each day, perform the following recording tasks with the meeting executive.
+    - Return to the WebEx start-up tab
+    - Click “Record” in the menu on the left
+    - “Share” the videos for the day’s sessions
+    - Copy and paste the “Public link” to a browser tab
+    - Download the video to the PC’s download folder
+
+## Settings to be done at start-up 
+
+- Topic
+- Date and time
+- Scheduling options:
+- Alternate organizer : On
+- Automatic recording: On
+- Do not include password: On
+- Participation before the organizer: 5 min. (Default) 
+- Reminder email: On
+- Install WebEx application
+- Host on the client software must be initialized as follows: Set “Participants > Mute when joining” to On, and “Participant > Play sound when entering/leaving” to Off. 
+- In the WebEx application, set participants to mute in the “Participants” tab.
+- Mute upon entering and leaving.
+
+## Yamashita SIG Research Award Announcement
+
+=== Starting here ===
+
+This presentation is eligible for the Yamashita SIG Research Award. See below regarding voting.
+
+Yamashita SIG Research Award Selection Survey form (For Mar. 2, 2020 presentations)
+
+Yamashita SIG Research Award Selection Survey form (For Mar. 3, 2020 presentations)
+
+Yamashita SIG Research Award Selection Survey form (For Mar. 4, 2020 presentations)
+
+=== Ending here ===
+
+## Session Switching Procedure
+
+1.	Close the session (e.g.: A1) from the operator’s PC (Exit). 
+1.	Move to a monitor (Monitor A, etc.). Check that the monitor has been disconnected from the meeting.
+1.	The next person starts a session for the next session (e.g. A2) on the operator’s PC.
+1.	The previous person participates in the next session (e.g. A2) on the monitor PC (with microphone muted and camera off). 
+1.	The previous person starts content sharing in the next session and immediately stops. Then immediately enable chat and display the chat screen from “View -> Panel -> Panel management”. 
+1.	The next person checks that chat is working for the next session.
+
+## Steering committee members
+1.	Create URLs and make announcements
+1.	Trouble shooting
+1.	Note that if an organizer is not participating, other participants cannot start a discussion.
+
+## Note
+- If chat is not working, add it with View->Panel->Panel management->Add Chat
+
