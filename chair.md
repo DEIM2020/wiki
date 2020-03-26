@@ -38,7 +38,39 @@
 - それでも解決できないトラブルの場合は，当日共有される電話番号（緊急連絡先）へ連絡をお願いします．
 - 現在のところコメンテータの割り当てはしておりませんので，質疑応答は座長と発表者の間でお願いします．
 
-（名前の変更の例）
+（名前の変更の例 / examples of changing names）
 
 ![名前の変更](img/rename6.png)
 ![名前の変更](img/rename8.png)
+
+# Information for DEIM2020 Online Conference Session Chairs
+
+1.	Ten minutes before the session start time, open the DEIM2020 program in a browser and enter the WebEx session meeting room. When first entering, you will be asked to enter your name. Use a format such as “A1 Chair: Full Name (affiliation),” so that other participants know who you are (To change your name, leave the meeting, start the WebEx Meeting application, change your name, and then join the meeting from the DEIM2020 participant program).
+1.	Un-mute your microphone and turn on your camera so that you can speak to participants. Take extra care to un-mute your microphone only when you speak.
+1.	The presenter should enter the meeting room, identifying themselves by including the presentation number (e.g. A1-1) at the beginning of their name. If the presenter does not appear, you may have to improvise, for example, by skipping the presentation, or by making an announcement after you have identified the presenter. 
+1.	At the session start time, announce that the session is starting and make the following other announcements.
+    * Participants should keep their own microphones muted to maintain a quiet environment.
+    * Participants should turn off their cameras to conserve communication bandwidth.
+    * In some cases, the administrator will enforce microphone muting and turning cameras off.
+    * Participants should use the chat function to ask any questions.
+    * Make any other acknowledgements or announcements.
+1.	Start the presentation by telling the presenter to un-mute their microphone, turn on their camera, share any content, and start their presentation. To help the presentation go smoothly, give verbal feedback to the presenter with statements like “I can hear you clearly,” or “I can see your slides.” 
+1.	The chair is responsible for timekeeping. Use the meeting timer or other means.
+    * http://maruta.github.io/timekeeper/
+    * Total time is 20 min. 18 min. accounting for switchover. (Presentation: 12 to 15 min., Questions: 3 to 5 min.) (1st bell: 12 min., 2nd bell: 15 min., 3rd bell: 18 min.)
+1.	After each presentation, hold a Q&A session with the presenter, selecting questions submitted by participants in the chat session and perhaps including your own questions. (If time permits, you can also call on participants to un-mute their microphone and ask questions directly.) 
+1.	When the time for a presenter has passed, have them stop sharing their content and proceed to the next presentation. 
+1.	After all presentations have completed, announce that the sessions have ended, and leave the meeting by clicking the “Leave meeting”  button. End the session ten minutes after the scheduled end of session. 
+
+### About Technical Reports
+- Regarding technical reports from sponsoring enterprises:
+   - Presentations that have a yellow symbol and [Technical Report] in front of the title in the program are technical reports from sponsoring enterprises.
+   - For these presentations, please mention that they are from a sponsor at the beginning of the presentation (introducing a technical initiative at the enterprise).
+   - As with the other presentations, hold a Q&A session, actively asking questions, at the end of the presentation.
+   - There are no draft manuscripts.
+   - Each session should be kept to 20 minutes. 
+
+### Notes:
+- A student intern is assigned to each session as administrator, so please ask them to help as needed, to mute all microphones or other such tasks.
+- If you have any other difficulty that you cannot solve, please contact the emergency phone number that will distributed on that day. 
+- Currently, no commentators have been assigned, so the chair and presenter are requested to run the Q&A session.
