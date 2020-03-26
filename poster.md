@@ -1,4 +1,4 @@
-# DEIM2020オンライン会議　ポスター発表の手引き
+# DEIM2020オンライン会議　ポスター発表の手引き / DEIM2020 Online Conference Procedures for Poster Presentations
 
 [<<Home](README.md)
 
@@ -51,4 +51,5 @@
 ![Whereby使い方](img/whereby-usage_0.png)
 
 > これはあくまで実験的な試みですので、あまり気負わず、出来る範囲でご対応ください。
+
 > This is just an experimental trial, so do not be too concerned, and just do your best.
