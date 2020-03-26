@@ -22,6 +22,6 @@
 1.	If you want to participate in a different session, be sure to leave the current session before joining a different session. If a message such as “You are already participating in a meeting. Do you want to join the meeting again?” is displayed, click “Cancel” and do not join, so that you do not participate in multiple sessions. 
 1.	If participating as a group, such as from a laboratory, do not participate in the session from PCs that are close to each other (this could result in audio feedback).
 1.	If there is a discussion, please speak in a way that other participants can understand.
-    - Start your statements indicating whether it is a “Question,” “Comment,” “Elaboration,” etc.
+    - Start your statements indicating whether it is a “Question,” “Comment,” “Session,” etc.
     - State your name and affiliation each time you speak.
     - When you speak, ensure your environment is quiet before un-muting your microphone (to avoid transmitting noises around you to other participants).
